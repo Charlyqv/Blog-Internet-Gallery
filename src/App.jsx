@@ -30,9 +30,9 @@ const App = () => {
 
   return (
     <div>
-      <h1>Blog de internet</h1>
-      <h3>Permite realizar registro de entradas</h3>
-      <h3>Herramientas utilizadas: React-Vite-JS, Node.js, MySQL</h3>
+      <h1>Blog de Internet</h1>
+      <h3>Permite realizar registro de entradas.</h3>
+      <h3>Herramientas utilizadas: React-Vite-JS, Node.js, MySQL.</h3>
       <ImageGallery items={images}
         showPlayButton={false}
         showFullscreenButton={false}
